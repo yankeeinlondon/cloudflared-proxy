@@ -1,0 +1,11 @@
+{
+  "name": "@yankeeinlondon/homelab-proxy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC"
+}

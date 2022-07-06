@@ -1,0 +1,24 @@
+{
+  "name": "cloudflared-proxy",
+  "version": "0.1.0",
+  "description": "An instance of cloudflared service which maps to a NGINX reverse proxy",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankeeinlondon/cloudflared-proxy.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "homelab",
+    "nginx"
+  ],
+  "author": "Ken Snyder <ken@ken.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yankeeinlondon/cloudflared-proxy/issues"
+  },
+  "homepage": "https://github.com/yankeeinlondon/cloudflared-proxy#readme"
+}
